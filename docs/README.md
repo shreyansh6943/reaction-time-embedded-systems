@@ -28,4 +28,4 @@ The player holds his hand over the sensor for a few seconds and that starts the 
 
 
 ## Wiring
-![Wiring](wiring.jpg)
+![Wiring](img/wiring.jpg)
