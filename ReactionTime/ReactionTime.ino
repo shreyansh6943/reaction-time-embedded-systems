@@ -1,7 +1,6 @@
 /*
     ---------------------------------------------
     Reaction time game.
-    See: https://github.com/hyankov/reaction_time
     ---------------------------------------------
 */
 
